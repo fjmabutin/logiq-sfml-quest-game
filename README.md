@@ -32,3 +32,13 @@ A quick look at how to play LOGIQ and enjoy the game step by step.
 
 📝 **Notes**
  - Minor refinements and additional features are planned for future updates.
+
+
+
+Created by: 
+
+**Gabrielle Cerda**  
+**Hayden Paul Imperial**  
+**Romeo Linchoco**  
+**Francine Joy Mabutin** 
+**Niña May San Buenaventura** 
